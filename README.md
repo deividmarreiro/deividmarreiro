@@ -33,10 +33,9 @@
 <h2 align="center">I'm Learning</h2>
 
 <p align="center" style="display: inline-block">
-  <img src="https://img.shields.io/badge/-go-69d7e4?style=for-the-badge&logo=go&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-SPARK-white?style=for-the-badge&logo=apache-spark"/>
   <img src="https://img.shields.io/badge/-apache%20airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=black"/>
   <img src="https://img.shields.io/badge/-kafka-white?style=for-the-badge&logo=apachekafka&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-rabbitmq-ff6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/-fastapi-009889?style=for-the-badge&logo=fastapi&logoColor=white"
 </p>
 
